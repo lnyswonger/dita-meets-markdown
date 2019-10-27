@@ -7,7 +7,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
  "concept.dtd">
 <concept id="conceptconcept" xml:lang="en-us">
-<title>Garage Concepts</title>
+<title>Garage
+  <?oxy_comment_start author="Luke Nyswonger" timestamp="20191027T225130+0000" comment="This should change"?>Concepts<?oxy_comment_end?></title>
 <shortdesc>A well-stocked garage can be the envy of the neighborhood.</shortdesc>
 <conbody>
   <p>This is a test.</p>
