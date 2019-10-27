@@ -9,5 +9,7 @@
 <concept id="conceptconcept" xml:lang="en-us">
 <title>Garage Concepts</title>
 <shortdesc>A well-stocked garage can be the envy of the neighborhood.</shortdesc>
-<conbody></conbody>
+<conbody>
+  <p>This is a test.</p>
+ </conbody>
 </concept>
