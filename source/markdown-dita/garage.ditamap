@@ -30,7 +30,7 @@ Modified by Syncro Soft 2016.
     <topicref href="concepts/wwfluid.dita" type="concept"/>
   </topicref>
  
- <topicref href="avatax/avatax.dita" type="concept" audience="expert">
+ <topicref href="avatax/avataxdemo.dita" type="concept" audience="expert">
     <topicref href="avatax/changepassword.dita" type="concept" audience="novice"/>
   </topicref>
   
