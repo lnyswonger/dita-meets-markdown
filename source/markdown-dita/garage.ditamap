@@ -27,6 +27,7 @@
  -->
  <topicref href="avatax/avataxdemo.dita" type="concept" audience="expert">
     <topicref href="avatax/changepassword.dita" type="concept" audience="novice"/>
+  <topicref href="avatax/addcompany.dita" type="concept" audience="novice"/>
   </topicref>
   <!--
   <reltable>
