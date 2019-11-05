@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "concept.dtd">
+<concept id="avataxdemo" xml:lang="en-us">
+<title>AvaTax Demo</title>
+<shortdesc>This is the short description.</shortdesc>
+<conbody><p>AvaTax Demo Landing Page</p>
+</conbody>
+</concept>
