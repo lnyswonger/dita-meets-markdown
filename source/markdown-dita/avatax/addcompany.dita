@@ -4,8 +4,10 @@
 <concept id="avatax" xml:lang="en-us">
 <title>Add a Company</title>
 <conbody>
-  <p>When you start using AvaTax Update, you set up a company. A company in AvaTax Update is a model
-      of your business from a sales tax and consumer use tax perspective. If you have a
+  <p>When you start using AvaTax Update, you set up a company. A company in AvaTax
+      <?oxy_comment_start author="Luke Nyswonger" timestamp="20191106T212638+0000" comment="What is this?
+"?>Update<?oxy_comment_end?>
+      is a model of your business from a sales tax and consumer use tax perspective. If you have a
       multi-company organization, add the additional companies. Add the parent company first, if
       your organization has parent company/child company relationships.</p>
     <p>Go to <b>Settings > Manage Companies </b>and then, click <b>Add a Company</b>.</p>
@@ -19,5 +21,9 @@
     <p>The <b>Company Code </b>links your business application to AvaTax Update. If your business
       application defines a company code, enter that company code as part of your company
       information.</p>
+    <p>This is a new paragraph<note>Check out the password information<ol
+          conref="changepassword.dita#avatax/ol_hyw_h3x_pjb" id="ol_f41_ctk_qjb">
+          <li/>
+        </ol></note></p>
 </conbody>
 </concept>
