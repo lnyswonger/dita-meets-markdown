@@ -21,9 +21,5 @@
     <p>The <b>Company Code </b>links your business application to AvaTax Update. If your business
       application defines a company code, enter that company code as part of your company
       information.</p>
-    <p>This is a new paragraph<note>Check out the password information<ol
-          conref="changepassword.dita#avatax/ol_hyw_h3x_pjb" id="ol_f41_ctk_qjb">
-          <li/>
-        </ol></note></p>
 </conbody>
 </concept>
