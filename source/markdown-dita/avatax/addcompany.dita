@@ -8,8 +8,10 @@
       <?oxy_comment_start author="Luke Nyswonger" timestamp="20191106T212638+0000" comment="What is this?
 "?>Update<?oxy_comment_end?>
       is a model of your business from a sales tax and consumer use tax perspective. If you have a
-      multi-company organization, add the additional companies. Add the parent company first, if
-      your organization has parent company/child company relationships.</p>
+      multi-<?oxy_comment_start author="Luke Nyswonger" timestamp="20191114T195008+0000" comment="This is another comment for Jordan and John"?>company<?oxy_comment_end?>
+      organization, add the additional companies. Add the parent company first, if your organization
+      has parent company/child company relationships.</p>
+    <p>This is a test</p>
     <p>Go to <b>Settings > Manage Companies </b>and then, click <b>Add a Company</b>.</p>
     <p>Fill out your company information </p>
     <p>Add your company information and specify if the company is a stand-alone company or a child
@@ -20,6 +22,9 @@
       BIN or European VAT identification number, assigned to a non-U.S. company. It's not required. </p>
     <p>The <b>Company Code </b>links your business application to AvaTax Update. If your business
       application defines a company code, enter that company code as part of your company
-      information.</p>
+        information.<note>If you need password stuff do this:<ol
+          conref="changepassword.dita#avatax/ol_hyw_h3x_pjb" id="ol_jfz_2lq_sjb">
+          <li/>
+        </ol></note></p>
 </conbody>
 </concept>
