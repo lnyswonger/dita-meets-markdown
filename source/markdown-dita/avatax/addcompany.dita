@@ -9,7 +9,6 @@
       multi-company organization, add the additional companies. Add the parent company first, if
       your organization has parent company/child company relationships.</p>
     <p>Go to <b>Settings > Manage Companies </b>and then, click <b>Add a Company</b>.</p>
-    <image href="password_change_cup_gif.gif" id="image_h4n_kfx_sjb"/>
     <p>Fill out YOUR company information </p>
     <p>Add your company information and specify if the company is a stand-alone company or a child
       company. </p>
@@ -21,9 +20,5 @@
     <p>The <b>Company Code </b>links your business application to AvaTax Update. If your business
       application defines a company code, enter that company code as part of your company
       information.</p>
-    <p>Whatever I want to write.</p>
-    <p>Show some reuse<ol conref="changepassword.dita#avatax/ol_hyw_h3x_pjb" id="ol_gl4_zfx_sjb">
-        <li/>
-      </ol></p>
   </conbody>
 </concept>
