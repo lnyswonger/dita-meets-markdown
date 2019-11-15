@@ -17,8 +17,5 @@
       tax identification number. It's a 9-digit code used by US companies for tax reporting. </p>
     <p>The <b>Business ID Number (</b>BIN) is a business identification number, such as the Canadian
       BIN or European VAT identification number, assigned to a non-U.S. company. It's not required. </p>
-    <p>The <b>Company Code </b>links your business application to AvaTax Update. If your business
-      application defines a company code, enter that company code as part of your company
-      information.</p>
   </conbody>
 </concept>
