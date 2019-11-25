@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_z3l_nth_5jb">
+    <title>Recurring prepayments and prior payments</title>
+    <conbody>
+        <p>Some jurisdictions may require you to pre-pay some tax before you file your returns.
+            Taxes paid this way are treated as a <xref
+                href="https://help.avalara.com/Avalara_Returns/Vendor_discounts_and_applied_or_excluded_credits"
+                format="html" scope="external">tax credit</xref> when you file the return they're
+            associated with (for example, if you need to prepay taxes on your February return, you
+            would pay part of February when you file for January, and claim the amount you prepaid
+            as a credit on the February return). These prepayment requirements usually come into
+            effect after your business has crossed a liability threshold of some kind.</p>
+        <p>Depending on the jurisdiction, you might be required to include prepayments on the tax
+            return forms you usually file, on a separate form specifically for prepayments, or
+            through an electronic payment directly to the tax authority. Automate any of these
+            prepayment methods, including direct payment, with forms in Returns, or remit
+            prepayments yourself and <xref
+                href="https://help.avalara.com/Avalara_Returns/Reconcile_and_file_using_Returns#Add_or_adjust_prepayments.2C_prior_payments.2C_and_other_tax_liabilities"
+                format="html" scope="external">report them in Returns</xref> so that Avalara knows
+            how much you already paid.</p>
+        <p>Different jurisdictions have different requirements for setting up automated prepayments
+            in Returns. Make sure you're <xref
+                href="https://help.avalara.com/Frequently_Asked_Questions/AvaTax_Update_FAQ/How_do_I_set_up_a_monthly_recurring_pre-payment_or_prior_payment_for_returns%3F"
+                format="html" scope="external">following the steps necessary for the state you're
+                filing in</xref>. If you aren't sure what you need to do, contact <xref
+                href="https://help.avalara.com/Avalara_Returns/Departments_of_revenue_and_taxing_authorities_by_state"
+                format="html" scope="external">the relevant tax authority</xref> or consult
+            Avalara's <xref href="https://help.avalara.com/Returns_Central" format="html"
+                scope="external">Returns Central</xref>.</p>
+        <p>
+            <table frame="all" rowsep="1" colsep="1" id="table_rn2_gvh_5jb">
+                <title>Recurring prepayments</title>
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry><b>Prepayment requirements</b></entry>
+                            <entry><b>How to automate with Returns</b></entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>File quarterly with monthly prepayments</entry>
+                            <entry>Schedule a monthly prepayment return in addition to the form
+                                you've set up for your quarterly filing. The specific form you need
+                                to use varies depending on your jurisdiction. All of these forms
+                                should be available in Returns, except for the New York PrompTax
+                                form, which requires <xref
+                                    href="https://help.avalara.com/Contact_Avalara" format="html"
+                                    scope="external">assistance from Avalara</xref> to set
+                                up.</entry>
+                        </row>
+                        <row>
+                            <entry>Annual prepayments</entry>
+                            <entry>Schedule an additional return form for the prepayment. The
+                                specific form you need to use varies depending on your jurisdiction.
+                                The annual prepay forms for West Virginia and Mississippi require
+                                    <xref href="https://help.avalara.com/Contact_Avalara"
+                                    format="html" scope="external">assistance from Avalara
+                                    Support</xref> to set up.</entry>
+                        </row>
+                        <row>
+                            <entry>Monthly prepayment and monthly filing</entry>
+                            <entry>Schedule an additional return form for the prepayment. The
+                                specific form you need to use varies depending on your
+                                jurisdiction.</entry>
+                        </row>
+                        <row>
+                            <entry>Combined prepayment and filing</entry>
+                            <entry>Set up the combined prepayment and return filing form, and expire
+                                any other return form that you'd set up in this
+                                jurisdiction.</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+        
+        <p>At this time, Returns doesn't support prepayments for Arkansas, Illinois, Michigan,
+            Missouri, or the Iowa Bi-Monthly Deposit form. For these states and forms, make your
+            prepayments directly to the state and then <xref
+                href="https://help.avalara.com/Avalara_Returns/Reconcile_and_file_using_Returns#Adjust_tax_liabilities"
+                format="html" scope="external">report the prior payments</xref> in AvaTax Update so
+            that you don't end up paying that liability a second time.</p>
+        <p>Once you've scheduled any returns that you need for your prepayments, <xref
+                href="https://help.avalara.com/Contact_Avalara" format="html" scope="external"
+                >contact Avalara Support</xref> to make sure that your prepayment requirements are
+            thoroughly documented. After everything's set up and your prepayments have been
+            automated, find <xref
+                href="https://help.avalara.com/Avalara_Returns/Find_and_download_your_filed_returns"
+                format="html" scope="external">payment confirmations and bank trace IDs</xref> in
+            Returns on the 5th of the month after the payment was issued.</p>
+        <section id="section_fvc_c5h_5jb">
+            <title>Understand how Avalara calculates your prepayments</title>
+            <p>Avalara bases its prepayment calculations on data from your returns in previous
+                years. If you don't have any prior returns in Returns, <xref
+                    href="https://help.avalara.com/Frequently_Asked_Questions/AvaTax_Update_FAQ/How_do_I_set_up_a_monthly_recurring_pre-payment_or_prior_payment_for_returns%3F"
+                    format="html" scope="external">provide information about your previous
+                    returns</xref> so that Returns can calculate your prepayments. If that
+                information isn't provided, Avalara isn't responsible for notices or penalties that
+                might arise from you not making the correct prepayment.</p>
+            <p>If the value of the prepayment that Returns calculates for you is $500 or less, then
+                it rounds the prepayment up to the nearest $50. If the amount is over $500, it
+                rounds up to the nearest $100. Prepayments are carried over to the next filing
+                period as <xref
+                    href="https://help.avalara.com/Avalara_Returns/Vendor_discounts_and_applied_or_excluded_credits"
+                    format="html" scope="external">prior payment credits</xref>, so you never lose
+                money from this rounding, but be aware that the amount that Returns pulls from your
+                account to remit to the jurisdiction may be larger than the actual prepayment
+                value.</p>
+            <p>If you don't want to use the amount calculated by Returns, <xref
+                    href="https://help.avalara.com/Avalara_Returns/Reconcile_and_file_using_Returns#Add_or_adjust_prepayments.2C_prior_payments.2C_and_other_tax_liabilities"
+                    format="html" scope="external">change the amount remitted for your
+                    prepayment</xref>. Avalara isn't responsible for notices or penalties that
+                result from you underpaying after you make adjustments to your prepayments.</p>
+            <p>Returns uses all committed transactions in a jurisdiction to calculate prepayments.
+                Uncommitted transactions and transactions that are added to AvaTax Update after the
+                prepayment has already been calculated aren't used.</p>
+        </section>
+    </conbody>
+</concept>

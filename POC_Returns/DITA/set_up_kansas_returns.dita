@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="set_up_kansas_returns">
+    <title>Set Up Kansas Returns</title>
+    <conbody>
+        <section id="section_eqt_2rh_5jb">
+            <title>Tell us where you collect tax</title>
+            <p>Add Kansas to the places <xref
+                    href="https://help.avalara.com/Avalara_AvaTax_Update/Update_where_you_collect_and_pay_tax"
+                    format="html" scope="external">where you collect tax</xref>. This tells AvaTax
+                Update to calculate tax on Kansas transactions. See the <xref
+                    href="https://www.ksrevenue.org/business.html" format="html" scope="external"
+                    >Kansas Department of Revenue website</xref> for details about nexus,
+                registration, and taxes in Kansas.</p>
+            <?oxy_insert_start author="lucien.nyswonger" timestamp="20191120T132244-0800"?>
+            <p>Hello workd<?oxy_insert_end?><note>blah clah
+                bla</note><?oxy_insert_start author="lucien.nyswonger" timestamp="20191120T132244-0800"?></p>
+            <?oxy_insert_end?>
+            <p>Before you add Kansas, there are two things you need to do:</p>
+            <ul id="ul_zxh_hrh_5jb">
+                <li>Make sure you have <xref
+                        href="https://www1.avalara.com/us/en/learn/nexus/state/kansas.html"
+                        format="html" scope="external">nexus in Kansas</xref>. In <xref
+                        href="https://www.avalara.com/us/en/learn/nexus/find_your_nexus.html"
+                        format="html" scope="external">some states</xref>, you may have <xref
+                        href="https://help.avalara.com/Frequently_Asked_Questions/AvaTax_Update_FAQ/The_Supreme_Court_ruled_in_favor_of_South_Dakota_in_the_South_Dakota_versus_Wayfair_case%E2%80%94what_does_this_mean_for_my_business%3F"
+                        format="html" scope="external">economic nexus</xref> if you're a remote
+                    seller.</li>
+                <li>Register with the <xref href="https://www.ksrevenue.org/busregistration.html"
+                        format="html" scope="external">Kansas Department of Revenue</xref></li>
+            </ul>
+            <p>Kansas has both <xref
+                    href="https://help.avalara.com/Avalara_AvaTax_Update/Sales_and_sellers_use_tax"
+                    format="html" scope="external">sales and sellers use tax</xref>. <xref
+                    href="https://help.avalara.com/Avalara_AvaTax_Update/States_and_tax_types"
+                    format="html" scope="external">Pick the right tax type</xref> based on the way
+                your business is registered and the tax return you need to file.</p>
+            <p>When you select the tax type for Kansas:</p>
+            <ul id="ul_ayh_hrh_5jb">
+                <li>Set the tax type to <b>Sales tax only</b> if you only file a Sales Tax return
+                    (KS ST-36)</li>
+                <li>Set the tax type to <b>Sales or sellers use tax</b> if you file a Sellers Use
+                    return (KS CT-9U)</li>
+            </ul>
+            <p>"Sourcing" determines the location where a sale is taxed. Kansas is a <xref
+                    href="https://www.avalara.com/us/en/learn/whitepapers/origin-vs-destination-sales-tax.html"
+                    format="html" scope="external">destination-sourced state</xref>.</p>
+        </section>
+        <section id="section_r54_jrh_5jb"><title>Add your company locations</title>Kansas doesn't
+            require location reporting on the returns. <xref
+                href="https://help.avalara.com/Avalara_AvaTax_Update/Add_other_company_locations_for_location-based_filing"
+                format="html" scope="external">Add any physical locations</xref> you have in Kansas
+            to enhance your company setup and track sales by location.</section>
+        <section id="section_org_mrh_5jb">
+            <title>Schedule your returns</title>
+            <p>After you tell us where you collect tax and add locations, you're ready to schedule
+                returns. Go to Returns in AvaTax Update to <xref
+                    href="https://help.avalara.com/Avalara_Returns/Complete_your_funding_power_of_attorney"
+                    format="html" scope="external">provide a funding power of attorney</xref> and
+                    <xref href="https://help.avalara.com/Avalara_Returns/Schedule_your_returns"
+                    format="html" scope="external">schedule your returns</xref>. </p>
+            <p>Your company name and taxpayer ID from <xref
+                    href="https://help.avalara.com/Avalara_AvaTax_Update/Update_company_information"
+                    format="html" scope="external">Your Company Details</xref> show up on your
+                returns. Make sure they match what’s on your registration information.</p>
+            <p>Use this info to schedule your returns. Keep in mind that the selections you made
+                when you told us where you collect tax, any location codes you entered, and the
+                forms you select are related and should tie together.</p>
+            <ul id="ul_tq3_nrh_5jb">
+                <li>Select <b>KS ST-36</b> Sales Tax to file sales tax</li>
+                <li>Select <b>KS CT-9U </b>Sellers Use to file retailers use tax</li>
+                <li>Select <b>KS CT-10U </b>Consumers Use to file consumers use tax</li>
+            </ul>
+            <p>Create an online account with the <xref
+                    href="https://www.kdor.ks.gov/Apps/kcsc/login.aspx?ReturnUrl=%2fApps%2fKCSC%2fsecure%2fdefault.aspx"
+                    format="html" scope="external">Kansas Department of Revenue</xref> to confirm
+                your filing frequency, file your returns, and pay your taxes.</p>
+            <p>Enter your Kansas registration ID in the correct format when you're scheduling the
+                return. Example: 05-123456789-F01</p>
+            <p>Kansas sales and use tax returns must be filed electronically. Enter your login
+                credentials when you schedule your returns.</p>
+            <p>Kansas sales and use tax returns must be filed by the 25th day of the month following
+                the ending date of the return.</p>
+            <p>Prepayments</p>
+            <ul id="ul_uq3_nrh_5jb">
+                <li>Monthly prepayments may be required if your tax liability is greater than
+                    $40,000 (subject to change at the state's discretion)</li>
+                <li>Avalara calculates prepayments for Kansas as 50% of the tax liability for the
+                    same month in the prior year. If Avalara doesn't have a full 12 months of prior
+                    year data, you're required to provide the total liability amount for the missing
+                    periods or we can't track prepayments for you for the first year.</li>
+                <li>Learn more about Kansas prepayments<ul id="ul_vq3_nrh_5jb">
+                        <li><xref href="https://www.ksrevenue.org/faqs-taxsales.html" format="html"
+                                scope="external">Kansas Sales Tax FAQs</xref></li>
+                        <li><xref href="https://www.ksrevenue.org/pdf/st36.pdf" format="html"
+                                scope="external">Retailer's Sales Tax (ST-36) Instructions (see Part
+                                1, Line 4)</xref></li>
+                        <li><xref href="https://www.ksrevenue.org/pdf/ct09u.pdf" format="html"
+                                scope="external">Retailer's Compensating Use Tax (CT-9U)
+                                Instructions (see Part 1, Line 2)</xref></li>
+                    </ul></li>
+                <li>Contact the Kansas Department of Revenue at 785-368-8222 for more info about
+                    prepayments</li>
+            </ul>
+        </section>
+    </conbody>
+</concept>

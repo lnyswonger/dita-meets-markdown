@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_vrv_fsh_5jb">
+    <title>Reconcile and file using Returns</title>
+    <shortdesc>After our compliance team reviews your scheduled returns, you're nearly ready to file. First, though, you should review our calculations, reconcile your returns with what's in your business application and AvaTax Update, and check for any deductions or prepayments.</shortdesc>
+    <conbody>
+        <section id="section_hms_ksh_5jb">
+            <title>Before you begin</title>
+            <p><xref href="https://help.avalara.com/Avalara_Returns/Set_up_Returns" format="html"
+                    scope="external">Your returns need to be set up</xref> and then approved by
+                Avalara.</p>
+        </section>
+        <section id="section_uxl_lsh_5jb">
+            <title>Steps</title>
+            <p>
+                <ol id="ol_fcm_wsh_5jb">
+                    <li>In AvaTax Update, go to Returns > Manage and Approve Returns. Choose the
+                        state whose returns you want to review, and click Manage Returns. You'll see
+                        details about your returns, including forms, filing frequencies, monthly
+                        sales activity, and tax amounts.<p>Review this information to make sure it
+                            matches what you expected. For more detailed information, including a
+                            comparison of tax remitted to Avalara and tax remitted to the
+                            jurisdiction, click Tax Details and Adjustments.<note>Looking for
+                                quarterly, semiannual, or annual returns? Click Returns Accruing for
+                                a Future Filing Period to see these longer-term returns during
+                                months when you don't file them.</note></p></li>
+                    <li>Add adjustments to what your company owes if you have them: <ol
+                            id="ol_isl_ysh_5jb">
+                            <li>Go to Returns > Manage and Approve Returns. Find the region where
+                                you want to adjust tax liabilities and click Manage Returns.</li>
+                            <li>Find the return you want to adjust and click Tax Details and
+                                Adjustments.</li>
+                            <li>Click Adjustments to Taxes and Fees or Adjustments to Remittance to
+                                see the adjustments:<ul id="ul_jsl_ysh_5jb">
+                                    <li>Prepayments are adjustments that Avalara remits <i>in
+                                            addition</i> to what's normally filed.</li>
+                                    <li>Prior payments are adjustments you've already paid on your
+                                        own, outside AvaTax Update.</li>
+                                </ul>To edit a prepayment, prior payment, or other adjustment
+                                number, click Edit. To add a new prepayment or prior payment, click
+                                Add Adjustments. If these adjustments occur regularly, it's a good
+                                idea to <xref
+                                    href="https://help.avalara.com/Avalara_Returns/Recurring_prepayments_and_prior_payments"
+                                    format="html" scope="external">automate them</xref>. </li>
+                        </ol></li>
+                    <li>Reconcile your returns. Depending on what you see on your returns, you may
+                        need to:<ul id="ul_acc_1th_5jb">
+                            <li>
+                                <p><xref
+                                        href="https://help.avalara.com/Avalara_Returns/Reconcile_returns_with_your_general_ledger"
+                                        format="html" scope="external">Reconcile with your general
+                                        ledger</xref></p>
+                                <p>Make sure the totals on your returns match what's in your
+                                    business application.</p>
+                            </li>
+                            <li>
+                                <p><xref
+                                        href="https://help.avalara.com/Avalara_Returns/Reconcile_scheduled_returns_with_transactions_in_AvaTax_Update"
+                                        format="html" scope="external">Reconcile with AvaTax Update
+                                        transactions</xref></p>
+                                <p>Compare the returns to what's in AvaTax Update.</p>
+                            </li>
+                            <li>
+                                <p><xref
+                                        href="https://help.avalara.com/Avalara_Returns/Reconcile_returns_with_consumer_use_tax"
+                                        format="html" scope="external">Reconcile with consumer use
+                                        tax</xref></p>
+                                <p>Check for consumer use tax discrepancies. </p>
+                            </li>
+                        </ul></li>
+                    <li>When you're finished, click Approve.</li>
+                    <li>Repeat these steps for each jurisdiction where you file returns.</li>
+                </ol>
+            </p>
+        </section>
+        <section id="section_tlx_lsh_5jb">
+            <title>Result</title>
+            <p>After you approve your returns, Avalara files them for you. You'll be able to see the
+                completed returns at the end of the month. </p>
+        </section>
+        <section id="section_cx1_nsh_5jb">
+            <title>See also</title>
+            <p><xref href="https://help.avalara.com/Avalara_Returns/Monthly_Returns_cycle"
+                    format="html" scope="external">The monthly returns cycle</xref></p>
+        </section>
+    </conbody>
+</concept>

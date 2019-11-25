@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="nologon">
+    <title>Cannot log on</title>
+    <shortdesc>Login attempts have failed</shortdesc>
+    <troublebody>
+        <condition>
+            <p>The system does not accept your login credentials.</p>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <p>The CapsLock key might be on.</p>
+            </cause>
+            <remedy><steps-unordered>
+                <step>
+                    <cmd>Verify that the CapsLock key is off.</cmd>
+                </step>
+            </steps-unordered>
+            </remedy>
+        </troubleSolution>
+        <troubleSolution>
+            <cause>
+                <title>Wrong password</title>
+                <p>The password that you are using does not match the one
+                    that is stored in the system.</p>
+            </cause>
+            <remedy id="gotoaccountmanagement">
+                <steps>
+                    <step>
+                        <cmd>Open a Web browser window</cmd>
+                    </step>
+                    <step>
+                        <cmd>Go to
+                            <xref href="http://itdept.example.com/reset.html"
+                                format="html" scope="external">
+                                Account management</xref>, and follow the
+                            instructions</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+        <troubleSolution>
+            <cause>
+                <title>Unknown account name</title>
+                <p>The account name you are using does not match the one
+                    stored in the system.</p>
+            </cause>
+
+        </troubleSolution>
+        <troubleSolution>
+            <remedy>
+                <title>Still cannot log on</title>
+                <steps-informal>
+                    <p>If none of the previous solutions work,
+                        consider asking for help. Contact your system
+                        administrator if your organization has one; otherwise,
+                        contact our support team.</p>
+                </steps-informal>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>
